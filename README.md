@@ -23,7 +23,9 @@ Calculer des statistiques sur le nombre de pharmacies par ville et par zone en u
 Pour mettre en place ce projet, vous aurez besoin des éléments suivants :
 
 le framework spring boot (serveur et deploiement integré)
+
 base de données MYSQL
+
 Editeur de code INTELLIJ
 
 
@@ -31,7 +33,13 @@ Editeur de code INTELLIJ
 
 
 telecharger ou cloner le projet dans votre ordinateur
+
 Ouvrez-le dans votre ordinateur
+
 configurer la connexion avec MYSQL dans le fichier properties en indiquant le nom de la base de donnée et le port ou MYSQL est en fonction
+
 lancer le projet en tant que springBoot Application
+
 tester les api avec postman selon leur url dans les controllers
+
+Realise par : Ismail LEMZAH / Mohammed louizi / kaoutar ressaki
